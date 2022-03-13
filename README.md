@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @AmirXploit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AmirXploit/AmirXploit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ✭ DMBF CRACK
+#### Dibuat Dengan ❤️ Oleh AmirXploit
+```
+Author:
+- AMIRXPLOIT.ID
+```
+#### ⇨  Fitur Login
+```
+[✯] Login Token  
+```
+#### ⇨  Fitur Crack
+```
+[✯] Crack Dari Teman, Public, Followers, Likers    
+[✯] Crack Default/Manual Pass  
+[✯] Crack Metode Api/Mbasic
+[✯] Crack Muncul TTL 
+```
+#### ⇨  Install Script Di Termux
+```
+$ termux-setup-storage  
+   • Enter  
+   • Ketik y Atau Pilih Izinkan  
+$ termux-change-repo
+   • Pilih Game Repository
+      - Klik OK
+   • Pilih Mirror By Grimler
+      - Klik OK
+$ pkg install python
+$ pkg install git
+$ pip install requests
+$ pip install bs4
+$ git clone https://github.com/AmirXploit/dmbf2
+ 
+```
+#### ⇨  Menjalankan Script
+```
+$ cd dmbf
+$ git pull
+$ python dmbf2.py
+```
+#### ⇨  Informasi
+```
+[!] Bedanya Metode Crack Apaan Ngab? Nih :
+✯ ---> API = Pake Metode Lama, Cracknya Cepet Tapi Gampang Kena Spam, Sebab Udah Diupdate Sama Pihak Facebook, Not Recommended
+✯ ---> Mbasic = Metode Lama Yang Masih Valid Sampe Sekarang, Cracknya Lumayan Lambat, Tapi Jarang Kena Spam, Makanya Recommended
+```
